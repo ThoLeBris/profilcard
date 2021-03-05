@@ -12,10 +12,6 @@ main{
     align-items: center;
 
     height: 100vh;
-    
-   
-    /* background: url(images/bg-pattern-top.svg) no-repeat left top,
-    url(images/bg-pattern-bottom.svg) no-repeat right bottom; */
 
     position: relative;
     overflow: hidden;
@@ -28,10 +24,12 @@ main{
 .circle-top{
     top: -400px;
     left: -50px;
+
 }
 .circle-bottom{
     bottom: -500px;
     right: -50px;
+  
 }
 
 .container{

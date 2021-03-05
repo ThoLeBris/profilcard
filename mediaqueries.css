@@ -1,0 +1,32 @@
+@media screen and (max-width: 1441px){
+    .circle-top{
+        left: -250px;
+    }
+    .circle-bottom{
+        right: -250px;
+    }  
+}
+@media screen and (max-width: 1025px){
+    .circle-top{
+        left: -450px;
+    }
+    .circle-bottom{
+        right: -450px;
+    }  
+}
+@media screen and (max-width: 769px){
+    .circle-top{
+        left: -600px;
+    }
+    .circle-bottom{
+        right: -600px;
+    }  
+}
+@media screen and (max-width: 426px){
+    .circle-top{
+        left: -750px;
+    }
+    .circle-bottom{
+        right: -750px;
+    }  
+}
